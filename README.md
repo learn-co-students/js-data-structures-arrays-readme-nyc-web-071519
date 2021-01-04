@@ -57,7 +57,7 @@ logWinningNumbers(firstNumber, secondNumber, thirdNumber, fourthNumber, fifthNum
 // => undefined
 ```
 
-That's so much typing! There are much, much better ways to keep organize data in
+That's so much typing! There are much, much better ways to organize data in
 JavaScript. Let's learn about one of the most common: the _`Array`_.
 
 ## Create Arrays
